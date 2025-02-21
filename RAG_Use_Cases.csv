@@ -1,0 +1,15 @@
+Category,Use Case,Description
+Business & Enterprise,Enterprise Knowledge Management,"Quickly retrieve policies, SOPs, and internal documentation across departments."
+Business & Enterprise,Contract & Legal Review,Search and summarize key clauses across thousands of contracts.
+Business & Enterprise,Customer Support,"Enhance chatbots by providing accurate answers from manuals, FAQs, and past tickets."
+Healthcare & Life Sciences,Medical Literature Search,"Retrieve and summarize clinical guidelines, research papers, and case studies."
+Healthcare & Life Sciences,Patient Record Access,"Surface relevant notes, lab results, and treatment plans from EHRs."
+Healthcare & Life Sciences,Pharmaceutical Research,Catalog and query clinical trial documentation.
+Education & Research,Academic Paper Retrieval,"Search and summarize findings from research articles, journals, and theses."
+Education & Research,Course Material Access,"Enable students and faculty to find relevant lecture notes, books, and resources."
+Legal & Compliance,Regulatory Compliance,"Search regulatory frameworks, guidelines, and audit reports for specific topics."
+Legal & Compliance,Case Law Research,Retrieve precedents and summarize case outcomes.
+Engineering & Manufacturing,Product Documentation,"Search user manuals, assembly guides, and maintenance records."
+Engineering & Manufacturing,Quality Control,Identify patterns from incident reports and inspection logs.
+Real Estate & Finance,Property Records,"Search historical property listings, appraisals, and contracts."
+Real Estate & Finance,Financial Reporting,"Retrieve and summarize earnings reports, balance sheets, and filings."
